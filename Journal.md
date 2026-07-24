@@ -16,3 +16,19 @@
 So far, progress is looking great!!!
 
 <hr>
+
+**7/23/2026**
+ - Today was quite a long work session! I was able to make some minor tweaks to the wind tunnel assembly so that it fits all the wiring and harware compenents securely. I did have a bit of a hard time selecting the pressure sensor, but ended up going with a standard HX711 aluminum load cell i found on amazon. I also was able to create the firmware for the pico microcontroller, and found no issues uploading the firmware onto the board, which is good news for me! Finally, I did some basic soldering today, including connecting wire extensions to the delta fan so they can reach the Pico board on top of the wind tunnel.
+
+ - Aluminum Load Cell
+<img width="415" height="412" alt="image" src="https://github.com/user-attachments/assets/cb60b43e-e51e-443e-bd6c-dfd63e0fc82e" />
+
+ - Firmware (no issues or bugs finally!!!) - Yes, I had to screenshot the code on notepad otherwire i couldnt capture the whole thing in one screenshot 😭
+<img width="344" height="939" alt="image" src="https://github.com/user-attachments/assets/43bdffc8-0667-4715-9359-1a388dcbc029" />
+
+ - Soldered and taped up extensions for the delta fan
+<img width="4032" height="2268" alt="PXL_20260724_002609780" src="https://github.com/user-attachments/assets/2c53ab07-9a37-436e-982e-3321f1684be7" />
+
+<hr>
+
+
