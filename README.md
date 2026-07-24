@@ -24,6 +24,15 @@ I designed the overall wind tunnel structure on Fusion360, and have decided to 3
 
 ---
 
+## How to Assemble
+1. Join the mesh and mesh mount together with the m3 screws
+2. Attatch the Fan to the Fan mount using the m4 screws, and hot glue the Pico microcontroller, Switch and Rotary encoder to the Fan Mount aswell
+3. Glue the load cell into the hole in the carriage halfway, with the end with the wires sticking out (See CAD model to locate mounting hole)
+4. Hot glue the rest of the parts together, and make sure to line each gap with duct tape to keep the wind tunnel assembly extra air tight
+5. Wire up! (See schematic for reference)
+6. Now move onto "How to Flash"!
+---
+
 ## How to Flash
 1. Press and hold the physical **BOOT** button on the Pico controller board.
 2. Connect the USB cable while holding the button, then release it.
